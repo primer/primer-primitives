@@ -1,5 +1,17 @@
 # @primer/primitives
 
+## 4.5.2
+
+### Patch Changes
+
+- [#179](https://github.com/primer/primitives/pull/179) [`f64ae47`](https://github.com/primer/primitives/commit/f64ae471d6ef3e6db73dfe1be11c7cbe53cf1bf8) Thanks [@simurai](https://github.com/simurai)! - Move `btn.selectedBg`
+
+* [#182](https://github.com/primer/primitives/pull/182) [`3bfc800`](https://github.com/primer/primitives/commit/3bfc800be3b7481217bb05e66b79a8ae72a6cf78) Thanks [@Juliusschaeper](https://github.com/Juliusschaeper)! - Update tooltip background
+
+- [#181](https://github.com/primer/primitives/pull/181) [`fc9e9f8`](https://github.com/primer/primitives/commit/fc9e9f85a0b430ebdaf867bb90f5d4e0e66bc363) Thanks [@simurai](https://github.com/simurai)! - Move header-search from product to component
+
+* [#183](https://github.com/primer/primitives/pull/183) [`d27b310`](https://github.com/primer/primitives/commit/d27b31034487b46932fc4438ee0ce6ac891eb6ad) Thanks [@auareyou](https://github.com/auareyou)! - Changed alert foregrounds to use `fg.default`
+
 ## 4.5.1
 
 ### Patch Changes
